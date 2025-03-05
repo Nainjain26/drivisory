@@ -33,7 +33,7 @@ export default function Landingpage() {
         {showQR && (
           <div className="mt-6">
             <img
-              src="/Untitled.jpeg"
+              src="/Qr.png"
               alt="QR Code"
               className="w-48 h-48 mx-auto"
             />
